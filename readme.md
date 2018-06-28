@@ -38,6 +38,6 @@ With 1400 epochs a testing accuracy of 71.6 was achieved.
 --------------------------------------------------------------------------------------------------------------------------
 Built a basic RNN cell, further extended the project by building an RNN by connecting the cells together
 
-Implemented an RNN with LSTM(Long Short Term Memory) cells.
+Implemented an RNN with LSTM(Long Short Term Memory) cells. 
 
 --------------------------------------------------------------------------------------------------------------------------
