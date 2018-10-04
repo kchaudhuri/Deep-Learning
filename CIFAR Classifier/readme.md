@@ -8,4 +8,3 @@ Preprocessing of the input images is done by normalising the image pixels and ou
 
 A training accuracy of 77% is achieved on the CIFAR Image Dataset.
 
-Please open cifarImageClassifier.ipynb file to see the running project. 
